@@ -1,0 +1,15 @@
+#panier input[type="number"] {
+  width: 100px;
+  height: 30px;
+}
+#panier,
+.total {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#panier h3 {
+  font-size: 20px;
+}
+figure {
+  background: #fff !important;
+}
